@@ -6,7 +6,7 @@
 ### <div align="center">I'm Luckyzen, from Nepal 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [practice backend frameworks](https://github.com/Luckyzen69/ecommerce-API)  
+- 🔭 I’m currently working on [Job-portal-0](https://github.com/Luckyzen69/Job-portal-0)  
   
 
 - 📕 I’m currently learning React.  
@@ -92,18 +92,11 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luckyzen69&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
 
 
 ### MERN STACK  
-I started learning MERN stack in July.  I have already complete Front-End part mainly HTML, CSS and Javascript. I am currently learning React which is one of the framework of Javascript as we all know.  
+Doing final project called a job portal using react , tailwind , express, mongodb, postman and so on..............
   
 
 <br/>  
