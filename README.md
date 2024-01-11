@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Luckyzen, from Nepal 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Luckyzen, from Nepal 👨‍💻 w</div>  
   
 
 - 🔭 I’m currently working on [Job-portal-0](https://github.com/Luckyzen69/Job-portal-0)  
