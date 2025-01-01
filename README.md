@@ -3,16 +3,15 @@
 </div>  
   
 
-### <div align="center">I'm Luckyzen, from Nepal 👨‍💻 w</div>  
+### <div align="center">I'm Lagzen Thakuri, from Nepal 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Job-portal-0](https://github.com/Luckyzen69/Job-portal-0)  
+- 🔭 I’m currently working on Mobile Apps. 
   
 
-- 📕 I’m currently learning React.  
+- 📕 I’m currently learning React Native.  
   
 
--  ❎Ask me about anything related to MERN stack ❓  
   
 
 - ⚡ Fun fact: I am interested in game development also.  
